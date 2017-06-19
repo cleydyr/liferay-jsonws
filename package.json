@@ -1,0 +1,24 @@
+{
+  "name": "liferay-jsonws",
+  "version": "1.0.0",
+  "description": "A Javascript API to use Liferay Portal webservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cleydyr/liferay-jsonws.git"
+  },
+  "keywords": [
+    "liferay",
+    "webservice",
+    "jsonws"
+  ],
+  "author": "Cleydyr de Albuquerque",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cleydyr/liferay-jsonws/issues"
+  },
+  "homepage": "https://github.com/cleydyr/liferay-jsonws#readme"
+}
