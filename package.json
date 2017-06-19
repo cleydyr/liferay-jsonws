@@ -1,6 +1,6 @@
 {
   "name": "liferay-jsonws",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Javascript API to use Liferay Portal webservices",
   "main": "index.js",
   "scripts": {
