@@ -2,7 +2,7 @@
   "name": "liferay-jsonws",
   "version": "1.0.2",
   "description": "A Javascript API to use Liferay Portal webservices",
-  "main": "index.js",
+  "main": "liferay.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
